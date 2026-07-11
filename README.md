@@ -19,11 +19,11 @@ This repository will include everything that I learn while learning C Programmin
 - Tokens in C
 
 ### 02. Variables and Data Types
-- Variables
-- Identifier
 - Keywords in C
+- Identifier
+- Variables
 - Constants
-- Data Types in C
+- Data Types (Basics)
   - Integer Types
   - Floating Point Types
   - Character Types
