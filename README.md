@@ -29,10 +29,10 @@ This repository will include everything that I learn while learning C Programmin
 - Character Types
 
 - Type Modifiers
--     short
--     long
--     signed
--     unsigned
+- short
+- long
+- signed
+  - unsigned
 
 ### 03. Input and Output
 - printf()
