@@ -20,7 +20,7 @@ This repository will include everything that I learn while learning C Programmin
 
 ### 02. Variables and Data Types
 - Keywords in C
-- Identifier
+- Identifiers
 - Variables
 - Constants
 - Data Types (Basics)
