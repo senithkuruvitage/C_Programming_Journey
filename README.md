@@ -24,14 +24,14 @@ This repository will include everything that I learn while learning C Programmin
 - Keywords in C
 - Constants
 - Data Types in C
-- Integer Types
-- Floating Point Types
-- Character Types
+  - Integer Types
+  - Floating Point Types
+  - Character Types
 
 - Type Modifiers
-- short
-- long
-- signed
+  - short
+  - long
+  - signed
   - unsigned
 
 ### 03. Input and Output
