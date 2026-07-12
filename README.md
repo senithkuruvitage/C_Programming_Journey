@@ -1,4 +1,4 @@
-# C Programming Journey 👨🏻💻
+# C Programming Journey 💻
 
 Welcome to my C Programming Journey.
 This repository consists of programs that I learn and practice and work upon. As well as exercises and projects that I complete while learning C programming language from scratch to advanced levels.
