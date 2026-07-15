@@ -1,6 +1,6 @@
 /* Author Name : Senith Kuruvitage
    Date        : June 15, 2026
-   Program for Find missing heights of two people.  */
+   Program     : Find missing heights of two people.  */
 
 #include<stdio.h>
 int main()
