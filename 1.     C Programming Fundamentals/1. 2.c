@@ -7,7 +7,6 @@
 #include<stdio.h>
 //function main begins program execution
 int main()
-
 {
 	printf("\nHello! Welcome to SLIIT\n\n");                
 
@@ -22,5 +21,4 @@ int main()
 	printf("       x      \n");
      
     return 0;
-
 } // End of main function
