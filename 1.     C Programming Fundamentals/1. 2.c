@@ -1,8 +1,8 @@
 /* Author Name : Senith Kuruvitage
    Date        : June 15, 2026
-   The First part displays the text "Hello! Welcome to SLIIT")
+   Program     : The First part displays the text "Hello! Welcome to SLIIT")
    The Second part demonstrates the use of the \n (new line) escape sequence.
-   The Third part displays a pattern created using the letter X. */
+   The Third part displays a pattern created using the letter X.               */
 
 #include<stdio.h>
 //function main begins program execution
