@@ -5,7 +5,6 @@
 #include<stdio.h>
 int main()
 {
-	
 	float takeoff_speed_kmh, takeoff_speed_ms, distance, velocity, acceleration, time;
 
 	printf("Enter the jet's takeoff speed in km/hr : ");
@@ -19,11 +18,9 @@ int main()
 
 	/*    v = at -> 1
 	      s = 1/2 at^2 -> 2
-
 	      t = 2*s/v    a = v^2/2*s   */
 
 	time = distance*2 / takeoff_speed_ms;
-
 	acceleration = (takeoff_speed_ms*takeoff_speed_ms) / distance*2;
 
 	printf("Takeoff acceleration : %.2f (m/s^2)\n",acceleration);
