@@ -1,6 +1,6 @@
 /* Author Name : Senith Kuruvitage
    Date        : June 24, 2026
-   Program     : Calculating the base and the height of a sail.    */
+   Program     : Calculating the base and the height of a sail.     */
 
 #include<stdio.h>
 #include<math.h>
