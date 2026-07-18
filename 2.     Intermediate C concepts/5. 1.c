@@ -27,15 +27,15 @@ int main() {
 	return 0; }
 
 // Function Definition
-float getLength() {    float len;
-		       printf("Enter length : ");
-		       scanf("%f",&len);
-		       return len; }
+float getLength() {   float len;
+		              printf("Enter length : ");
+		              scanf("%f",&len);
+		              return len; }
 	               
-float getWidth() {     float wid;
-		       printf("Enter width : ");
-		       scanf("%f",&wid);
-		       return wid; } 
+float getWidth() {    float wid;
+		              printf("Enter width : ");
+		              scanf("%f",&wid);
+		              return wid; } 
 
 float calculateArea(float length, float width) {
-               return length * width;  }
+                      return length * width;  }
