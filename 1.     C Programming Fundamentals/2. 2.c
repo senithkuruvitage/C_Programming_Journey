@@ -1,6 +1,6 @@
 /* Author Name : Senith Kuruvitage
    Date        : June 24, 2026
-   Program     : Calculating the acceleration of a jet fighter launched from an aircraft-carrier catapul  */
+   Program     : Calculating the acceleration of a jet fighter launched from an aircraft-carrier catapul   */
 
 #include<stdio.h>
 int main()
