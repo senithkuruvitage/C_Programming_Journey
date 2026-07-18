@@ -4,22 +4,10 @@
 
 #include<stdio.h>
 
+// Function prototypes
 float getLength();
 float getWidth();
 float calculateArea(float length, float width);
-
-float getLength() {    float len;
-		       printf("Enter length : ");
-		       scanf("%f",&len);
-		       return len; }
-	               
-float getWidth() {     float wid;
-		       printf("Enter width : ");
-		       scanf("%f",&wid);
-		       return wid; } 
-
-float calculateArea(float length, float width) {
-               return length * width;  }
 
 int main() {
 	float length, width, area;
@@ -37,3 +25,17 @@ int main() {
 	printf("Area of Square : %.2f\n\n",area);
 
 	return 0; }
+
+// Function Definition
+float getLength() {    float len;
+		       printf("Enter length : ");
+		       scanf("%f",&len);
+		       return len; }
+	               
+float getWidth() {     float wid;
+		       printf("Enter width : ");
+		       scanf("%f",&wid);
+		       return wid; } 
+
+float calculateArea(float length, float width) {
+               return length * width;  }
