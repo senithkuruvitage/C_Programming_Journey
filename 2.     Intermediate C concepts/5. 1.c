@@ -18,7 +18,8 @@ float getWidth() {     float wid;
 		       scanf("%f",&wid);
 		       return wid; } 
 
-float calculateArea(float length, float width) {  return length * width;  }
+float calculateArea(float length, float width) 
+                  {  return length * width;  }
 
 int main() {
 	float length, width, area;
