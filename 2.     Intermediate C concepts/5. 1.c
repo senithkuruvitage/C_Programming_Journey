@@ -13,13 +13,13 @@ int main() {
 	float length, width, area;
 
 	printf("Enter dimensions for Rectangle\n");
-	length = getLength();
+	length = getLength();                          // Function Calling
 	width = getWidth();
 	area = calculateArea(length, width);
 	printf("Area of Rectangle : %.2f\n\n",area);
 
 	printf("Enter dimensions for Square\n");
-	length = getLength();
+	length = getLength();                          // Function Calling
 	width = getWidth();
 	area = calculateArea(length, width);
 	printf("Area of Square : %.2f\n\n",area);
