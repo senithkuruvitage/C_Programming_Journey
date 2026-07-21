@@ -1,6 +1,6 @@
 /* Author Name : Senith Kuruvitage
    Date        : July 16, 2026
-   Program     : calculating the area of a rectangle and a square using a function   */
+   Program     : calculating the area of a rectangle and a square using a function  */
 
 #include<stdio.h>
 
